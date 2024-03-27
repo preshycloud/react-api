@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "Precious",
+            "email": "aderibigbeprecious760@gmail.com",
+            "phone": "8127203332"
+        },
+
+        {
+            "id": "2",
+            "name": "Phil Akpan",
+            "email": "akpanphil@gmail.com",
+            "phone": "8023329631"
+        },
+
+        {
+            "id": "3",
+            "name": "Kingslee Oghene ",
+            "email": "oghenekingslee@yahoo.com",
+            "phone": "9123456789"
+        }
+    ]
+}
